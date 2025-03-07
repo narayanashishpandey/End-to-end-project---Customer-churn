@@ -1,5 +1,4 @@
 # Customer-Churn-Prediction:
-### Project Demo Link - [Click Here](https://customer-churn-predictions.herokuapp.com/)
 ![Churn](https://user-images.githubusercontent.com/90024661/135493461-457a32f2-c03a-4dfa-a9e7-1d1a362dd5f1.png)
 
   Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
@@ -35,4 +34,4 @@ This project requires **Python** and the following packages are in below:
 #### Objective:
   Predict the customer likely to be Churn or not by using Gradient Boost Classifier and my target is to find customer to be Churn or Not.
   
-Project Demo Link - [Click Here](https://customer-churn-predictions.herokuapp.com/)
+
